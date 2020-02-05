@@ -1,6 +1,8 @@
 # TDE Central
 A TOM to Consolidate the Identification and Multi-Facility Followup of Transients in Galaxy Centers
 
+[![Build Status](https://travis-ci.com/Fingel/tdecentral.svg?branch=master)](https://travis-ci.com/Fingel/tdecentral)
+
 
 ## Installation
 
